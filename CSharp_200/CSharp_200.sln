@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFactorial", "Recur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveSumOfReciprocal", "RecursiveSumOfReciprocal\RecursiveSumOfReciprocal.csproj", "{A5028948-74B8-455C-A57F-4E9E2647E448}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HanoiTower", "HanoiTower\HanoiTower.csproj", "{A0A5452E-2EC3-4F68-9C15-44B8C31DB9C1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{A5028948-74B8-455C-A57F-4E9E2647E448}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A5028948-74B8-455C-A57F-4E9E2647E448}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A5028948-74B8-455C-A57F-4E9E2647E448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0A5452E-2EC3-4F68-9C15-44B8C31DB9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0A5452E-2EC3-4F68-9C15-44B8C31DB9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0A5452E-2EC3-4F68-9C15-44B8C31DB9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0A5452E-2EC3-4F68-9C15-44B8C31DB9C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
