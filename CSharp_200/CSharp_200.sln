@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveBinarySearch", "Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecutionTime", "ExecutionTime\ExecutionTime.csproj", "{3371D075-393D-4462-BF72-74063DDBE959}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTime_", "DateTime_\DateTime_.csproj", "{49DB4D91-DAB9-4DFC-BF4E-3962625C2B72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{3371D075-393D-4462-BF72-74063DDBE959}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3371D075-393D-4462-BF72-74063DDBE959}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3371D075-393D-4462-BF72-74063DDBE959}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49DB4D91-DAB9-4DFC-BF4E-3962625C2B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DB4D91-DAB9-4DFC-BF4E-3962625C2B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DB4D91-DAB9-4DFC-BF4E-3962625C2B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DB4D91-DAB9-4DFC-BF4E-3962625C2B72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
