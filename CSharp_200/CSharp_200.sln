@@ -207,6 +207,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortArrPair", "SortArrPair\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_IComparable", "_IComparable\_IComparable.csproj", "{9FA9FA55-9543-4D58-A82E-5802596472ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue_", "Queue_\Queue_.csproj", "{E206A42F-784B-414E-A33E-F4F2CC02D17A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack_", "Stack_\Stack_.csproj", "{A04FEE04-6556-4A0F-943D-E63A501C6ECE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -621,6 +625,14 @@ Global
 		{9FA9FA55-9543-4D58-A82E-5802596472ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FA9FA55-9543-4D58-A82E-5802596472ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FA9FA55-9543-4D58-A82E-5802596472ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E206A42F-784B-414E-A33E-F4F2CC02D17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E206A42F-784B-414E-A33E-F4F2CC02D17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E206A42F-784B-414E-A33E-F4F2CC02D17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E206A42F-784B-414E-A33E-F4F2CC02D17A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04FEE04-6556-4A0F-943D-E63A501C6ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04FEE04-6556-4A0F-943D-E63A501C6ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04FEE04-6556-4A0F-943D-E63A501C6ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04FEE04-6556-4A0F-943D-E63A501C6ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
