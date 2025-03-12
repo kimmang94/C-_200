@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToList", "LinqToList\Li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToCollection", "LinqToCollection\LinqToCollection.csproj", "{8D630AF6-06E9-48B2-A2DF-4C0E50610746}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormApp", "WinFormApp\WinFormApp.csproj", "{048CFEE6-6445-4045-9AA5-A4860B85A3F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{8D630AF6-06E9-48B2-A2DF-4C0E50610746}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D630AF6-06E9-48B2-A2DF-4C0E50610746}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D630AF6-06E9-48B2-A2DF-4C0E50610746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{048CFEE6-6445-4045-9AA5-A4860B85A3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{048CFEE6-6445-4045-9AA5-A4860B85A3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{048CFEE6-6445-4045-9AA5-A4860B85A3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{048CFEE6-6445-4045-9AA5-A4860B85A3F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
