@@ -257,6 +257,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaskedTextBox", "MaskedText
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RGBScrollBar", "RGBScrollBar\RGBScrollBar.csproj", "{8A6C283E-0BC6-4B14-AC42-B5D8C8D4F5FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox_", "ListBox_\ListBox_.csproj", "{CA981116-73F9-40DF-A9BF-886EBE43AE32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -771,6 +773,10 @@ Global
 		{8A6C283E-0BC6-4B14-AC42-B5D8C8D4F5FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A6C283E-0BC6-4B14-AC42-B5D8C8D4F5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A6C283E-0BC6-4B14-AC42-B5D8C8D4F5FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA981116-73F9-40DF-A9BF-886EBE43AE32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA981116-73F9-40DF-A9BF-886EBE43AE32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA981116-73F9-40DF-A9BF-886EBE43AE32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA981116-73F9-40DF-A9BF-886EBE43AE32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
