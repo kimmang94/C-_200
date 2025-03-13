@@ -49,5 +49,15 @@ namespace WinFormApp
             // (7) 선택결과를 보여주는 메시지박스 입니다.
             MessageBox.Show(msg, "Your Selections");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (textBox1.Text == "")
+            {
+                MessageBox.Show("이름을 입력하세요", "Warning");
+            }
+            else
+                label2.Text = textBox1.Text + "님! 안녕하세요!";
+        }
     }
 }
